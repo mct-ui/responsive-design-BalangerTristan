@@ -226,7 +226,7 @@ a:focus {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    max-width: 70.76em; /* 90 * 16px = 1440px */
+    max-width: 56.4em; /* 90 * 16px = 1440px */
 }
 
 /*
@@ -256,7 +256,6 @@ a:focus {
 }
 
     .o-layout__item {
-        width: 100%; 
         flex-basis: 100%;
     }
 
@@ -443,7 +442,7 @@ a:focus {
 }
 
 .c-nav—meta {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .c-nav__link--meta,
@@ -486,7 +485,7 @@ a:focus {
 
 
     .c-header__nav {
-        display: block;
+        display: inline;
 
 }
 
